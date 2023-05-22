@@ -1,0 +1,52 @@
+import {
+  logo,
+  github,
+  linkedin,
+  facebook,
+  instagram,
+  chatbot,
+  game,
+  dev,
+  skill,
+  resume,
+  birdvox,
+  atco,
+  fall,
+  review,
+  smartparking,
+  keywordRec,
+  coursera,
+  microsoft,
+  gomycode,
+  mitacs,
+  papers,
+  hireme
+} from './assets';
+
+import { FONTS } from './fonts';
+
+export default {
+  FONTS,
+  logo,
+  github,
+  linkedin,
+  facebook,
+  instagram,
+  chatbot,
+  game,
+  dev,
+  skill,
+  resume,
+  birdvox,
+  atco,
+  fall,
+  review,
+  smartparking,
+  keywordRec,
+  coursera,
+  microsoft,
+  gomycode,
+  mitacs,
+  papers,
+  hireme
+};

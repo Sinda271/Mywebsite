@@ -1,0 +1,10 @@
+import { Banner } from './Banner';
+import { NavBar } from './NavBar';
+import { Skills } from './Skills';
+import { Projects } from './Projects';
+import { Achievements } from './Achievements';
+import { Certifications } from './Certifications';
+import { Papers } from './Papers';
+import { HireMe } from './HireMe';
+import { Contact } from './Contact';
+export { Banner, NavBar, Skills, Projects, Achievements, Certifications, Papers, HireMe, Contact };
