@@ -30,12 +30,9 @@ export const NavBar = () => {
     <Router>
       <Navbar expand="md" className={scrolled ? 'scrolled' : ''}>
         <Container>
-          <Navbar.Brand href="/">
+          <Navbar.Brand href="index.html">
             <Lottie animationData={assets.logo} loop={true} size={1} />
           </Navbar.Brand>
-          {/* <Navbar.Toggle aria-controls="basic-navbar-nav">
-            <span className="navbar-toggler-icon"></span>
-          </Navbar.Toggle> */}
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
               <Nav.Link
